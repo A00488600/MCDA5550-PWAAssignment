@@ -1,0 +1,17 @@
+{
+    "name": "To-Do App",
+    "short_name": "To-Do",
+    "description": "A simple To-Do app for managing tasks.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    
+    ]
+}
